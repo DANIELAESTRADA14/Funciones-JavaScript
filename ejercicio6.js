@@ -15,7 +15,7 @@ function crearObjeto(nombre,planeta,edad,estatura,callback){
         }
 
         callback(aprendiz);
-    },10,000)
+    },10000)
 }
 
 crearObjeto("Cin","Tatooine",15,1.64,function(aprendiz){
