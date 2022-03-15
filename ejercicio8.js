@@ -109,6 +109,215 @@ let alimentos = [
         tipo: "animal",
         energía: 210
     },
+
+    {
+        nombre: "Cebolla",
+        tipo: "vegetal",
+        energía: 234
+    },
+
+    {
+        nombre: "Hormiga",
+        tipo: "insecto",
+        energía: 245
+    },
+
+    {
+        nombre: "Jamon",
+        tipo: "animal",
+        energía: 400
+    },
+
+    {
+        nombre: "Repollo",
+        tipo: "vegetal",
+        energía: 234
+    },
+
+    {
+        nombre: "Pulga",
+        tipo: "insecto",
+        energía: 340
+    },
+
+    {
+        nombre: "Pescado",
+        tipo: "animal",
+        energía:124
+    },
+    {
+        nombre: "Lechuga",
+        tipo: "vegetal",
+        energía: 150
+    },
+
+    {
+        nombre: "Abeja",
+        tipo: "insecto",
+        energía: 100
+    },
+
+    {
+        nombre: "Cabra",
+        tipo: "animal",
+        energía: 358
+    },
+    {
+        nombre: "Brocoli",
+        tipo: "vegetal",
+        energía: 467
+    },
+
+    {
+        nombre: "Oruga",
+        tipo: "insecto",
+        energía: 478
+    },
+
+    {
+        nombre: "Cuy",
+        tipo: "animal",
+        energía: 432
+    },
+
+    {
+        nombre: "Lentejas",
+        tipo: "vegetal",
+        energía: 300
+    },
+
+    {
+        nombre: "Araña",
+        tipo: "insecto",
+        energía: 127
+    },
+
+    {
+        nombre: "Caballo",
+        tipo: "animal",
+        energía: 398
+    },
+
+    {
+        nombre: "Mosca",
+        tipo: "insecto",
+        energía: 345
+    },
+
+    {
+        nombre: "Conejo",
+        tipo: "animal",
+        energía: 262
+    },
+
+    {
+        nombre: "Naranja",
+        tipo: "vegetal",
+        energía: 120
+    },
+
+    {
+        nombre: "Avispa",
+        tipo: "insecto",
+        energía: 147
+    },
+
+    {
+        nombre: "Atun",
+        tipo: "animal",
+        energía: 236
+    },
+
+    {
+        nombre: "Cucaracha",
+        tipo: "insecto",
+        energía: 285
+    },
+
+    {
+        nombre: "Leche",
+        tipo: "animal",
+        energía: 422
+    },
+
+    {
+        nombre: "Mazorca",
+        tipo: "vegetal",
+        energía: 340
+    },
+
+    {
+        nombre: "Grillo",
+        tipo: "insecto",
+        energía: 347
+    },
+
+    {
+        nombre: "Tocineta",
+        tipo: "animal",
+        energía: 500
+    },
+
+    {
+        nombre: "Termita",
+        tipo: "insecto",
+        energía: 358
+    },
+
+    {
+        nombre: "Salmon",
+        tipo: "animal",
+        energía: 352
+    },
+
+    {
+        nombre: "Garbanzo",
+        tipo: "vegetal",
+        energía: 304
+    },
+
+    {
+        nombre: "Libelula",
+        tipo: "insecto",
+        energía: 355
+    },
+
+    {
+        nombre: "Gallina",
+        tipo: "animal",
+        energía: 238
+    },
+
+    {
+        nombre: "Saltamontes",
+        tipo: "insecto",
+        energía: 466
+    },
+
+    {
+        nombre: "Pavo",
+        tipo: "animal",
+        energía: 342
+    },
+
+    {
+        nombre: "Calabaza",
+        tipo: "vegetal",
+        energía: 135
+    },
+
+    {
+        nombre: "Rábano",
+        tipo: "vegetal",
+        energía: 344
+    },
+
+    {
+        nombre: "Molusco",
+        tipo: "animal",
+        energía: 398
+    },
+
 ]
 
 registrarAlimento(alimentos,function(tipos){
